@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome to Brebeuf Group A Github Pages
+Owned by Antonio Joaquin Florendo
 
 You can use the [editor on GitHub](https://github.com/Lelite2150/lelite2150.github.com/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
