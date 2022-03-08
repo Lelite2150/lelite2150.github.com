@@ -15,3 +15,9 @@ The inclined press is also a very common and simple chest exercise in which you 
 
 [SirGain's Website Link](https://641n.github.io/)
 
+## References
+
+[Bench Press](https://www.skimble.com/exercises/66469-barbell-standard-bench-press-how-to-do-exercise)
+[Inclined Press](https://www.shutterstock.com/image-illustration/dumbbell-bench-press-while-lying-on-425575588)
+
+
