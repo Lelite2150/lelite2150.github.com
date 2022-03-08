@@ -1,8 +1,8 @@
-## Welcome to Brebeuf Group A Github Pages
-Owned by Antonio Joaquin Florendo
+## Best exercises for each body part group with Videos
+Owned by Antonio Joaquin Florendo 9 Brebeuf Group A
 
 
 
 
-[SirGain](https://641n.github.io/)
+[SirGain's Website Link](https://641n.github.io/)
 
