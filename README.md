@@ -1,4 +1,4 @@
-# Best exercises for each body part group with Videos
+# Best exercises for each body part group
 Website created by Antonio Joaquin Florendo 9 Brebeuf Group A
 
 ## Chest
@@ -12,12 +12,19 @@ The bench press is one the most common and also one of the simplest chest exerci
 
 The inclined press is also a very common and simple chest exercise in which you activate your upper pectoralis major or upper chest. It is done by laying on an inclined bench with a similar motion done while doing the bench press. While laying on an inclined bench with your chest out and lower back not touching the bench hold the bar over your chest, slowly bring it down to your lower chest, after that slowly raise the bar or dumbell over your chest. Note that when you are dong this exercise you must have proper breathing so that you won't run out of breath. When holding the bar breathe in, then hold your breath when bringing the bar down then breathe out when bring the bar up. 
 
+## Back
+## Shoulder
 
 [SirGain's Website Link](https://641n.github.io/)
 
 ## References
 
 [Bench Press](https://www.skimble.com/exercises/66469-barbell-standard-bench-press-how-to-do-exercise)
+
 [Inclined Press](https://www.shutterstock.com/image-illustration/dumbbell-bench-press-while-lying-on-425575588)
+
+
+
+
 
 
