@@ -11,7 +11,10 @@ The bench press is one the most common and also one of the simplest chest exerci
 ![Inclined Press](Dumbell press.png)
 
 The inclined press is also a very common and simple chest exercise in which you activate your upper pectoralis major or upper chest. It is done by laying on an inclined bench with a similar motion done while doing the bench press. While laying on an inclined bench with your chest out and lower back not touching the bench hold the bar over your chest, slowly bring it down to your lower chest, after that slowly raise the bar or dumbell over your chest. Note that when you are dong this exercise you must have proper breathing so that you won't run out of breath. When holding the bar breathe in, then hold your breath when bringing the bar down then breathe out when bring the bar up. 
+### 3. Push ups 
+![Push Ups](push ups.jpg)
 
+Push ups is the most common, simplest and easy to access chest exercise for most people. You can do it in your home, work or in the gym. You don't need any extra equipment you only need a floor with a flat surface. In order to do a proper push place your hands flat on the ground slightly wider than shoulder width and make it so that it is lined up with your lower chest. Put your feet back and place them together. look straight, slowly bring your body down to the ground so that your chest touches the ground then slowly bring your body up. Make sure that your elbows are not flared outward. Note that when you are dong this exercise you must have proper breathing so that you won't run out of breath. When holding the bar breathe in, then hold your breath when bringing the bar down then breathe out when bring the bar up. 
 ## Back
 ## Shoulder
 
